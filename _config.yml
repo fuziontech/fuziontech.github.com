@@ -3,11 +3,11 @@
 # ----------------------- #
 
 url: http://fuziontech.github.io
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+title: The Brown Mountain
+subtitle: Data, Business, and Stuff.
+author: James Greenhill 
 simple_search: http://google.com/search
-description:
+description: There will be random.
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
@@ -58,22 +58,22 @@ default_asides: [asides/recent_posts.html, asides/github.html, asides/delicious.
 # ----------------------- #
 
 # Github repositories
-github_user:
+github_user: fuziontech
 github_repo_count: 0
 github_show_profile_link: true
 github_skip_forks: true
 
 # Twitter
-twitter_user:
+twitter_user: fuziontech
 twitter_tweet_button: true
 
 # Google +1
-google_plus_one: false
+google_plus_one: true 
 google_plus_one_size: medium
 
 # Google Plus Profile
 # Hidden: No visible button, just add author information to search results
-googleplus_user:
+googleplus_user: fuziontech
 googleplus_hidden: false
 
 # Pinboard
@@ -85,11 +85,11 @@ delicious_user:
 delicious_count: 3
 
 # Disqus Comments
-disqus_short_name:
-disqus_show_comment_count: false
+disqus_short_name: brownmountain
+disqus_show_comment_count: true 
 
 # Google Analytics
-google_analytics_tracking_id:
+google_analytics_tracking_id: UA-40112729-1
 
 # Facebook Like
-facebook_like: false
+facebook_like: true 
